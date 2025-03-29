@@ -12,6 +12,6 @@ async function main(){
   await mongoose.connect(process.env.MONGO_URL).then(
     console.log("Connected to MONGODB")
   )
-  app.listen(3000);
+  app.listen(process.env.PORT);
 }
 main();
