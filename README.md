@@ -100,6 +100,9 @@ This is an Express.js-based User Authentication API that supports user registrat
 - JWT is used for authentication to secure user sessions.
 - Request validation is handled using `zod` to ensure input integrity.
 
+## Postman-Documentation 
+- https://documenter.getpostman.com/view/40612987/2sB2cPj5oj
+
 ## License
 This project is licensed under the MIT License.
 
